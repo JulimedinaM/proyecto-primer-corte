@@ -1,3 +1,7 @@
+//software de facturacion 
+//juliana medina y juan manuel cardona
+
+
 #include <stdio.h>
 #include <windows.h>
 #include <string.h>
